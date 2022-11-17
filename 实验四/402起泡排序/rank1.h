@@ -1,0 +1,1 @@
+void rank1(double list1[10]);
